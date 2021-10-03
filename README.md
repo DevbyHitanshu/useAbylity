@@ -1,4 +1,4 @@
-# Sun_Hacks_2021
+# WildHacks
 ## Inspiration
 Online Classes inspired us the most for this project.
 So here goes the story!
