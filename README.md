@@ -1,57 +1,47 @@
-# Youtube Video - https://www.youtube.com/watch?v=B00rfKaODA4
+# UseAbylity - Gesture-Controlled Media and Web Browsing
+
+## Introduction
+
+Welcome to UseAbylity, a software solution inspired by the challenges of online classes and the need for healthier, interactive ways to consume media and browse the web. Tired of sitting in awkward positions? UseAbylity empowers you to control your media and internet browsing using hand gestures, giving you a more dynamic and engaging experience.
+
+## Demo Video
+
+Watch the [UseAbylity Demo](https://www.youtube.com/watch?v=B00rfKaODA4) on YouTube!
+
 ## Inspiration
-Online Classes inspired us the most for this project.
-So here goes the story!
->Everybody is locked in.
->Online classes are the norm.
->Everybody is bored.
->Its time to stream some movies and chill out.
 
-But of course how do you **chill out** ?
-Sitting or lazying around in awkward positions.
+Online classes became the catalyst for our project. As everyone shifted to online learning, the monotony of sitting in front of screens led us to explore a solution that combines technology and hand gestures for a more interactive experience.
 
-Sorry to be a spoil sport , but that effects your **spine and muscles**!! 
+## How It Works
 
-So what did we do about it ?
-Find out!!
+UseAbylity utilizes the existing webcams on laptops and integrates them with hand gestures. With this software, you can control media playback and internet browsing using simple hand movements. It brings a touch of the extraordinary, allowing you to feel like Professor X from X-Men, manipulating digital elements with your fingers.
 
-## What it does
-It's a software that uses existing tech (webcams ) on laptops , and integrates them with hand gestures. So now you can control the media using only your hands.
+![Professor X](https://imgr.search.brave.com/aO9XwDyMKHAmr4FGqg2lDSVWLVj3xZnE7rFsIdOUxOc/fit/1200/721/ce/1/aHR0cHM6Ly9tZWRp/YS5jb21pY2Jvb2su/Y29tLzIwMTcvMDUv/eG1lbi1uZXctbXV0/YW50cy1jaGFybGVz/LXhhdmllci05OTU5/MjYtMTI4MHgwLnBu/Zw)
 
-And not just media , we also made **one for the internet.**
+## Technology Stack
 
-So now you can swish around as much as you like and feel like **Professor X** from x-men ( the guy who can move stuff using his finger alone)
+We chose Python for its diverse library selections and relied on [MediaPipe](https://mediapipe.dev/), using its pre-trained hand and body recognition models. A bit of math helped us fine-tune coordinate mappings for web scrolling and media player adaptation.
 
-![](https://imgr.search.brave.com/aO9XwDyMKHAmr4FGqg2lDSVWLVj3xZnE7rFsIdOUxOc/fit/1200/721/ce/1/aHR0cHM6Ly9tZWRp/YS5jb21pY2Jvb2su/Y29tLzIwMTcvMDUv/eG1lbi1uZXctbXV0/YW50cy1jaGFybGVz/LXhhdmllci05OTU5/MjYtMTI4MHgwLnBu/Zw)
+## Challenges Faced
 
-## How we built it
-We chose **python** ,for its diversity in library selections.
-We mainly used [MediaPipe](https://mediapipe.dev/).
-We used the pre trained hand and body recogniser from mediapipe and used a bit of math to figure out the proper co-ordinate mappings.
+- Coordinating web scrolling coordinates
+- Adapting to different media players (VLC, QuickTime, etc.)
+- Fine-tuning the system for optimal performance
 
+## Accomplishments
 
+We successfully created a program that enhances web browsing and media consumption through gesture control. Overcoming coding challenges and differences within the team, we are proud to present the finished product, hoping it brings positive change to the way people interact with technology.
 
-## Challenges we ran into
-We ran into a few problems on our way.
-- Configuration of co-ordinates for web scrolling (a bit of math)
-- Media Player adaptation (different stuff works on different player (vlc,quick time etc) )
-- Getting things to work the way we want them too 
+## Lessons Learned
 
-## Accomplishments that we're proud of
+Our journey with UseAbylity taught us valuable lessons about computer vision, hand-to-coordinate mapping precision, and the intricacies of working with MediaPipe.
 
-We were able to _browse_ the web and consume media _in a better manner_ using our program.
-We were also able to work through our differences and code errors.
-We worked as a team and here is the finished product.
-We hope it can bring a little change to the world.
+## What's Next for UseAbylity
 
-## What we learned
+Our future plans involve packaging UseAbylity into easy-to-install software, aiming to correct posture and provide a convenient, interactive experience for users.
 
-We learnt a lot about mediapipe and how computer vision works.
-The mapping of our hands to different co-ordinates and the precision of the system really amazed us.
+![Future](https://imgr.search.brave.com/tpeRetm9GgLSsX6VuoMSu6a_k1NKzheBdOIeVoei86w/fit/300/300/ce/1/aHR0cHM6Ly93d3cu/Y29tcHV0ZXJob3Bl/LmNvbS9qYXJnb24v/cC9wYWNrYWdlLW9w/ZW4uanBn)
 
+Join us on this exciting journey with UseAbylity, shaping the way we interact with technology!
 
-## What's next for UseAbylity
-
-
-We aim to package this software into an easy to install , working piece of software which can hopefully correct peoples posture and also be convenient to them.
-![](https://imgr.search.brave.com/tpeRetm9GgLSsX6VuoMSu6a_k1NKzheBdOIeVoei86w/fit/300/300/ce/1/aHR0cHM6Ly93d3cu/Y29tcHV0ZXJob3Bl/LmNvbS9qYXJnb24v/cC9wYWNrYWdlLW9w/ZW4uanBn)
+#UseAbylity #GestureControl #InteractiveMedia #WebBrowsing
