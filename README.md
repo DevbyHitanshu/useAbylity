@@ -6,7 +6,9 @@ Welcome to UseAbylity, a software solution inspired by the challenges of online 
 
 ## Demo Video
 
-Watch the [UseAbylity Demo](https://www.youtube.com/watch?v=B00rfKaODA4) on YouTube!
+[![UseAbylity Demo](https://img.youtube.com/vi/B00rfKaODA4/0.jpg)](https://www.youtube.com/watch?v=B00rfKaODA4)
+
+Click on the image above to watch the UseAbylity Demo on YouTube!
 
 ## Inspiration
 
@@ -37,7 +39,6 @@ Our journey with UseAbylity taught us valuable lessons about computer vision, ha
 ## What's Next for UseAbylity
 
 Our future plans involve packaging UseAbylity into easy-to-install software, aiming to correct posture and provide a convenient, interactive experience for users.
-
 
 Join us on this exciting journey with UseAbylity, shaping the way we interact with technology!
 
