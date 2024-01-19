@@ -16,8 +16,6 @@ Online classes became the catalyst for our project. As everyone shifted to onlin
 
 UseAbylity utilizes the existing webcams on laptops and integrates them with hand gestures. With this software, you can control media playback and internet browsing using simple hand movements. It brings a touch of the extraordinary, allowing you to feel like Professor X from X-Men, manipulating digital elements with your fingers.
 
-![Professor X](https://imgr.search.brave.com/aO9XwDyMKHAmr4FGqg2lDSVWLVj3xZnE7rFsIdOUxOc/fit/1200/721/ce/1/aHR0cHM6Ly9tZWRp/YS5jb21pY2Jvb2su/Y29tLzIwMTcvMDUv/eG1lbi1uZXctbXV0/YW50cy1jaGFybGVz/LXhhdmllci05OTU5/MjYtMTI4MHgwLnBu/Zw)
-
 ## Technology Stack
 
 We chose Python for its diverse library selections and relied on [MediaPipe](https://mediapipe.dev/), using its pre-trained hand and body recognition models. A bit of math helped us fine-tune coordinate mappings for web scrolling and media player adaptation.
@@ -40,7 +38,6 @@ Our journey with UseAbylity taught us valuable lessons about computer vision, ha
 
 Our future plans involve packaging UseAbylity into easy-to-install software, aiming to correct posture and provide a convenient, interactive experience for users.
 
-![Future](https://imgr.search.brave.com/tpeRetm9GgLSsX6VuoMSu6a_k1NKzheBdOIeVoei86w/fit/300/300/ce/1/aHR0cHM6Ly93d3cu/Y29tcHV0ZXJob3Bl/LmNvbS9qYXJnb24v/cC9wYWNrYWdlLW9w/ZW4uanBn)
 
 Join us on this exciting journey with UseAbylity, shaping the way we interact with technology!
 
